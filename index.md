@@ -24,7 +24,7 @@ image:
   
 ## Introduction
 
-The overall goal of the Undergraduate Longitudinal Brain Study (ULG) is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of [emerging adulthood](http://jeffreyarnett.com/ARNETT_Emerging_Adulthood_theory.pdf). This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit). This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. 
+The overall goal of the Undergraduate Longitudinal Brain Study (ULG) is to increase our understanding of how lifestyle factors (for example, physical activity, sleep patterns, substance use, etc.) affect brain development during the critical period of [emerging adulthood](http://jeffreyarnett.com/ARNETT_Emerging_Adulthood_theory.pdf). This is a 4-year study that involves visiting our laboratory 3 times a year (2 assessment visits and a brief check-in visit), and completing at-home online tasks. This study is open to freshmen students (ages 18-19) at The University of Texas at Austin. 
 
 Each year, we will be conducting a comprehensive assessment of your physical health, mental and emotional health, substance use, social factors, and neurocognitive function. These assessments provide a rich dataset for us to learn about different changes that occur throughout college. We ensure that all data will be kept confidential and stored in a secure and encrypted server.
 
@@ -35,7 +35,7 @@ Study visits will occur at:
 
 ## What will you be asked to do?
 
-If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, about 3 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
+If you wish to be in this study, you will first complete a [brief online screener](https://redcap.prc.utexas.edu/redcap/surveys/?s=9EWH9CFJDH) to make sure you are eligible to participate. If you are eligible, you will schedule 2 study visits, occuring 3-4 weeks apart. During the 3-week period in between the 2 visits, we will provide you a series of online assessments to complete. They should take no more than 3 hours. We will also ask you to partake in daily questionnaires using a smartphone app ([Beiwe](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)).
 
 ### V1 visits
 The first study visit (V1) takes about 2.5 hours. During your very first V1 visit, we will explain the procedures of the research study in depth. If you agree to continue, you will take part in interviews and surveys about your medical history, mental and emotional health, substance use, and academic performance. Additionally, you will complete a brief sensory assessment (vision, hearing, and smell).
@@ -59,14 +59,14 @@ Each year for the three years following, you will come in for 2 assessment visit
 
 ## Compensation
 
-You can receive up to $120/year. We will pay for breakfast on the fasting days, and in some cases, we can provide assistance with parking and transportation. Each year, we will follow the payment schedule below:
+You can receive up to $120/year. You will be paid in cash at the end of each lab visit according to the tasks you have completed by that point. Compensation for the At-home assessments will be given at V2. If the at-home assessments are not completed, we reserve the right to cancel your V2 and withdraw you from the study. Breakfast will be provided the morning of V2, which is the fasting day. Each year, we will follow the payment schedule below:
 
 | Session                        | When                      | Approximate Duration                        | Compensation |
 |--------------------------------|---------------------------|---------------------------------------------|--------------|
 | V1: Baseline                 | Spring                    | 2.5 hrs                                     | $20          |
 | At-home assessments            | Spring                    | Daily reports + 3 hrs of online assessments | $20          |
-| V2 assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
-| V2 MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
+| V2: assessments + biospecimen | Spring (3 weeks after V1) | 2 hrs                                       | $20          |
+| V2: MRI scan                  | Spring (3 weeks after V1) | 1.5 hrs                                     | $40          |
 | Mid-year check in visit        | Fall                      | 1 hr                                        | $20          |
 
 
